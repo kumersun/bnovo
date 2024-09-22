@@ -1,0 +1,3 @@
+http://localhost {
+    reverse_proxy bnovo-go-app:8080
+}
